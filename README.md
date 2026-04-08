@@ -71,24 +71,20 @@
 ## 💼 Work Experience
 
 ### Freelancer — Fullstack Software Developer
-
 **Apr 2024 – Present**
 
-* Developing scalable **Angular SPA applications**
-* Building reusable UI components using **Angular Material**
-* Integrating **REST APIs with RxJS**
-* Optimizing performance using **lazy loading and modular architecture**
+- Developing scalable **Angular SPA applications**
+- Building reusable UI components using **Angular Material**
+- Integrating **REST APIs with RxJS**
+- Optimizing performance using **lazy loading and modular architecture**
 
 ### Tech Mahindra — Software Engineer
-
 **Mar 2022 – Apr 2024**
 
-* Developed full stack applications using **Angular + Node.js**
-* Built responsive UI using **HTML5, CSS3, Bootstrap**
-* Designed and integrated **RESTful APIs**
-* Worked in **Agile development environment**
-
----
+- Developed full stack applications using **Angular + Node.js**
+- Built responsive UI using **HTML5, CSS3, Bootstrap**
+- Designed and integrated **RESTful APIs**
+- Worked in **Agile development environment**
 
 ## 🎓 Education
 
