@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-📍 Mumbai, India • 💻 3+ Years Experience • ☁️ Azure Certified
+📍 Mumbai, India • 💻 2 Years Experience • ☁️ Azure Certified
 </p>
 
 ---
