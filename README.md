@@ -1,123 +1,153 @@
 <h1 align="center">Hi 👋, I'm Sanket Bhuwad</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Angular & Node.js Developer</h3>
+
+<h3 align="center">
+Software Engineer | Angular Developer | Full Stack Developer
+</h3>
 
 <p align="center">
-📍 Mumbai, India • 💻 3.5+ Years Experience • ☁️ Azure Certified
+📍 Mumbai, India &nbsp; | &nbsp; 💼 4+ Years Experience &nbsp; | &nbsp; ☁️ Microsoft Azure Certified
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 Software Engineer with **3.5+ years of experience** building enterprise and client-facing web applications
-* 🚀 Specialized in **Angular, React, TypeScript, JavaScript, Node.js**
-* 🌐 Experienced in developing scalable **Full Stack Applications**
-* ⚡ Passionate about **Clean Architecture, Performance Optimization & Reusable Components**
-* ☁️ Microsoft Azure Fundamentals (**AZ-900**) Certified
-* 🔥 Delivering end-to-end solutions from requirement gathering to deployment
+- 💼 Software Engineer with **4+ years of experience** developing enterprise web applications and scalable business solutions.
+- 🚀 Experienced in **Angular, React, Node.js, Express.js, TypeScript, JavaScript and MySQL**.
+- ⚡ Passionate about writing **clean, maintainable and reusable code**.
+- 🌐 Strong experience in building responsive, high-performance web applications.
+- ☁️ Microsoft Azure Fundamentals (**AZ-900**) Certified.
+- 🤝 Experienced in Agile development, REST APIs, performance optimization and end-to-end application development.
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sanket-bhuwad&theme=tokyonight" />
-</p>
-
----
-
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-
-* Angular
-* React
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-* Angular Material
-* RxJS
+- Angular
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+- Angular Material
+- RxJS
 
 ### Backend
-
-* Node.js
-* Express.js
+- Node.js
+- Express.js
 
 ### Database
-
-* MySQL
-* MongoDB
+- MySQL
+- MongoDB
 
 ### Cloud & DevOps
-
-* Microsoft Azure
-* Git
-* Docker
-* CI/CD
+- Microsoft Azure
+- Docker
+- Git
+- GitHub
+- Jenkins
+- CI/CD
 
 ### Other Skills
-
-* REST APIs
-* SPA Architecture
-* Lazy Loading
-* Authentication & Authorization
-* Performance Optimization
-* Responsive Design
+- REST APIs
+- SPA Architecture
+- Lazy Loading
+- Responsive Design
+- Performance Optimization
+- Reusable Components
+- Agile Methodology
 
 ---
 
 ## 💼 Professional Experience
 
-### Full Stack Developer — Freelancer
+### Software Engineer
+### Perfect Society
 
 **May 2024 – Present**
 
-* Developed custom web applications for clients using Angular, React, Node.js and MySQL
-* Built admin panels, management systems and workflow automation solutions
-* Managed complete project lifecycle from requirement gathering to deployment
-* Optimized application performance and implemented security best practices
+- Provided end-to-end application support for Society Management Platform.
+- Coordinated with business teams for feature enhancements.
+- Identified and resolved application issues to improve stability.
+- Collaborated with development teams to implement new features.
+- Troubleshot production issues and delivered timely solutions.
 
-### Tech Mahindra — Software Engineer
+---
 
-**Mar 2022 – Apr 2024**
+### Software Engineer
+### Tech Mahindra
 
-* Developed and maintained enterprise web applications using Angular and Node.js
-* Built reusable UI components and integrated REST APIs
-* Worked in Agile development environments with cross-functional teams
-* Managed production support, bug fixing and feature enhancements
-* Supported application deployments on Microsoft Azure
+**March 2022 – April 2024**
+
+- Developed enterprise-scale applications using Angular, React, Node.js, Express.js and TypeScript.
+- Built reusable UI components and responsive web applications.
+- Designed and integrated RESTful APIs.
+- Optimized application performance using Lazy Loading, RxJS and efficient state management.
+- Worked on Docker deployments and Microsoft Azure cloud hosting.
+- Participated in Agile ceremonies, code reviews, testing and debugging.
 
 ---
 
 ## 🎓 Education
 
-🎓 **B.E. Electronics** — University of Mumbai
+🎓 **Bachelor of Engineering (Electronics)**  
+University of Mumbai
 
-🎓 **Diploma in Electronics** — MSBTE
+🎓 **Diploma in Electronics**  
+MSBTE
+
+🎓 **SSC**  
+Maharashtra State Board
 
 ---
 
 ## 📜 Certifications
 
-* Microsoft Azure Fundamentals (AZ-900)
-* MEAN Stack Training – Tech Mahindra
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- ✅ MEAN Stack Training – Tech Mahindra
+- ✅ Industrial Training – EMU Carshed, Kurla (Central Railway)
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-📧 **[bhuwadsanket@gmail.com](mailto:bhuwadsanket@gmail.com)**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sanket-bhuwad&show_icons=true&theme=tokyonight" />
+</p>
 
-🔗 **LinkedIn:** https://linkedin.com/in/sanketbhuwad
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-bhuwad&theme=tokyonight" />
+</p>
 
-💻 **GitHub:** https://github.com/sanket-bhuwad
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-bhuwad&layout=compact&theme=tokyonight" />
+</p>
 
-📍 **Mumbai, Maharashtra, India**
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:**  
+**bhuwadsanket@gmail.com**
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/sanketbhuwad
+
+💻 **GitHub:**  
+https://github.com/sanket-bhuwad
+
+📍 Mumbai, Maharashtra, India
+
+---
+
+## 💡 Professional Summary
+
+> Software Engineer with **4+ years of experience** building enterprise-grade web applications using Angular, React, Node.js, Express.js, TypeScript and MySQL. Passionate about scalable architecture, clean code, reusable components and delivering high-quality software solutions.
 
 ---
 
 <p align="center">
-⭐ Passionate about building scalable web applications and solving real-world problems through technology.
+⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
 </p>
