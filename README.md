@@ -142,12 +142,6 @@ https://github.com/sanket-bhuwad
 
 ---
 
-## 💡 Professional Summary
-
-> Software Engineer with **4+ years of experience** building enterprise-grade web applications using Angular, React, Node.js, Express.js, TypeScript and MySQL. Passionate about scalable architecture, clean code, reusable components and delivering high-quality software solutions.
-
----
-
 <p align="center">
 ⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
 </p>
