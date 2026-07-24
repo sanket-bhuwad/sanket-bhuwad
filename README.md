@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋, I'm Sanket Bhuwad</h1>
 
 <h3 align="center">
-Software Engineer | Angular Developer | Full Stack Developer
+Full Stack Software Engineer | Angular Developer | Node.js Developer
 </h3>
 
 <p align="center">
-📍 Mumbai, India &nbsp; | &nbsp; 💼 4+ Years Experience &nbsp; | &nbsp; ☁️ Microsoft Azure Certified
+📍 Mumbai, India &nbsp; | &nbsp; 💼 4+ Years Experience &nbsp; | &nbsp; ☁️ Microsoft Azure (AZ-900) Certified
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Software Engineer with **4+ years of experience** developing enterprise web applications and scalable business solutions.
-- 🚀 Experienced in **Angular, React, Node.js, Express.js, TypeScript, JavaScript and MySQL**.
-- ⚡ Passionate about writing **clean, maintainable and reusable code**.
-- 🌐 Strong experience in building responsive, high-performance web applications.
-- ☁️ Microsoft Azure Fundamentals (**AZ-900**) Certified.
-- 🤝 Experienced in Agile development, REST APIs, performance optimization and end-to-end application development.
+I'm a **Full Stack Software Engineer** with **4+ years of experience** building scalable, high-performance web applications using modern JavaScript technologies.
+
+- 💼 4+ years of experience in Full Stack Web Development
+- 🚀 Experienced in **Angular, React, Node.js, Express.js, TypeScript, JavaScript, MySQL & MongoDB**
+- 🔗 Strong experience in designing and integrating **RESTful APIs**
+- ⚡ Passionate about writing clean, maintainable and reusable code
+- 🌐 Skilled in developing responsive, scalable and production-ready applications
+- ☁️ Microsoft Azure Fundamentals (**AZ-900**) Certified
+- 🤝 Experienced with Agile/Scrum, CI/CD, Docker, Git and Azure
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Frontend
+### 💻 Frontend
 - Angular
 - React
 - TypeScript
@@ -34,63 +37,66 @@ Software Engineer | Angular Developer | Full Stack Developer
 - Angular Material
 - RxJS
 
-### Backend
+### ⚙️ Backend
 - Node.js
 - Express.js
+- RESTful APIs
+- JWT Authentication
 
-### Database
+### 🗄️ Database
 - MySQL
 - MongoDB
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 - Microsoft Azure
 - Docker
+- Jenkins
 - Git
 - GitHub
-- Jenkins
 - CI/CD
 
-### Other Skills
-- REST APIs
+### 🛠 Core Skills
+- Full Stack Development
 - SPA Architecture
-- Lazy Loading
 - Responsive Design
 - Performance Optimization
+- Lazy Loading
 - Reusable Components
-- Agile Methodology
+- Agile/Scrum
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### Software Engineer
+## Software Engineer
 ### Perfect Society
 
 **May 2024 – Present**
 
-- Provided end-to-end application support for Society Management Platform.
-- Coordinated with business teams for feature enhancements.
-- Identified and resolved application issues to improve stability.
-- Collaborated with development teams to implement new features.
-- Troubleshot production issues and delivered timely solutions.
+- Developed and maintained full-stack modules using **Angular, Node.js, Express.js and MySQL**.
+- Implemented new business features and enhanced existing workflows.
+- Designed and integrated RESTful APIs.
+- Optimized database queries to improve application performance.
+- Managed end-to-end feature development including development, testing, deployment and post-release enhancements.
+- Worked in Agile environment delivering scalable production-ready software.
 
 ---
 
-### Software Engineer
+## Software Engineer
 ### Tech Mahindra
 
 **March 2022 – April 2024**
 
-- Developed enterprise-scale applications using Angular, React, Node.js, Express.js and TypeScript.
-- Built reusable UI components and responsive web applications.
-- Designed and integrated RESTful APIs.
-- Optimized application performance using Lazy Loading, RxJS and efficient state management.
-- Worked on Docker deployments and Microsoft Azure cloud hosting.
+- Built enterprise-scale web applications using **Angular, React, Node.js, Express.js, TypeScript and MySQL**.
+- Developed reusable UI components and shared services.
+- Designed secure RESTful APIs.
+- Improved application performance using Lazy Loading and code optimization.
+- Collaborated using Git, Docker, Azure and CI/CD pipelines.
 - Participated in Agile ceremonies, code reviews, testing and debugging.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 🎓 **Bachelor of Engineering (Electronics)**  
 University of Mumbai
@@ -103,7 +109,7 @@ Maharashtra State Board
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 - ✅ Microsoft Azure Fundamentals (AZ-900)
 - ✅ MEAN Stack Training – Tech Mahindra
@@ -111,23 +117,23 @@ Maharashtra State Board
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanket-bhuwad&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanket-bhuwad&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-bhuwad&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-bhuwad&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-bhuwad&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-bhuwad&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 📧 **Email:**  
 **bhuwadsanket@gmail.com**
@@ -135,13 +141,10 @@ Maharashtra State Board
 💼 **LinkedIn:**  
 https://linkedin.com/in/sanketbhuwad
 
-💻 **GitHub:**  
-https://github.com/sanket-bhuwad
-
 📍 Mumbai, Maharashtra, India
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate and build amazing software together.
 </p>
