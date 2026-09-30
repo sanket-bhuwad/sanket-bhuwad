@@ -69,9 +69,9 @@ I'm a **Full Stack Software Engineer** with **4+ years of experience** building 
 # 💼 Professional Experience
 
 ## Software Engineer
-### Perfect Society
+### Web Dreamers
 
-**May 2024 – Present**
+**June 2024 – Present**
 
 - Developed and maintained full-stack modules using **Angular, Node.js, Express.js and MySQL**.
 - Implemented new business features and enhanced existing workflows.
